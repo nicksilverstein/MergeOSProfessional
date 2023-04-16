@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "USB bus driver extension"
+#define MERGEOS_STR_INTERNAL_NAME     "usbport"
+#define MERGEOS_STR_ORIGINAL_FILENAME "usbport.sys"
+#include <mergeos/version.rc>

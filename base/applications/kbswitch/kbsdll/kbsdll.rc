@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Keyboard Layout Switcher"
+#define MERGEOS_STR_INTERNAL_NAME     "kbsdll"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbsdll.dll"
+#include <mergeos/version.rc>

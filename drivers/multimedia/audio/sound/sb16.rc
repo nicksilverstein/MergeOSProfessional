@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "SB16 driver"
+#define MERGEOS_STR_INTERNAL_NAME     "sb16"
+#define MERGEOS_STR_ORIGINAL_FILENAME "sb16.sys"
+#include <mergeos/version.rc>

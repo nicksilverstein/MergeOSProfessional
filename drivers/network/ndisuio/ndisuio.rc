@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "NDIS User-Mode I/O Protocol Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "ndisuio"
+#define MERGEOS_STR_ORIGINAL_FILENAME "ndisuio.sys"
+#include <mergeos/version.rc>

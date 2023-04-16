@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION	"USBAUDIO Driver API\0"
+#define MERGEOS_STR_INTERNAL_NAME	"usbaudio\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"usbaudio.sys\0"
+#include <mergeos/version.rc>

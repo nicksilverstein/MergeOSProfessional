@@ -1,0 +1,6 @@
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS IP Route Priority API DLL\0"
+#define MERGEOS_STR_INTERNAL_NAME	"iprtprio\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"iprtprio.dll\0"
+#include <mergeos/version.rc>

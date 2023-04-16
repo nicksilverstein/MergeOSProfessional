@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Novell NE2000 network driver"
+#define MERGEOS_STR_INTERNAL_NAME     "ne2000"
+#define MERGEOS_STR_ORIGINAL_FILENAME "ne2000.sys"
+#include <mergeos/version.rc>

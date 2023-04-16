@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Dutch Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdne"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdne.dll"
+#include <mergeos/version.rc>

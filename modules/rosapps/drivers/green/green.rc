@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION	"VT100 Server Driver\0"
+#define MERGEOS_STR_INTERNAL_NAME	"green\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"green.sys\0"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Romanian (Standard) Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdrost"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdrost.dll"
+#include <mergeos/version.rc>

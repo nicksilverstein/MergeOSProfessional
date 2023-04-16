@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS RU Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdru"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdru.dll"
+#include <mergeos/version.rc>

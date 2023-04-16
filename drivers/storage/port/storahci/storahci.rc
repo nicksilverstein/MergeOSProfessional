@@ -1,0 +1,11 @@
+//
+// PROJECT:        MergeOS Kernel
+// LICENSE:        GNU GPLv2 only as published by the Free Software Foundation
+// PURPOSE:        To Implement AHCI Miniport driver targeting storport NT 5.2
+// PROGRAMMERS:    Aman Priyadarshi (aman.eureka@gmail.com)
+//
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "AHCI Storport Miniport Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "storahci"
+#define MERGEOS_STR_ORIGINAL_FILENAME "storahci.sys"
+#include <mergeos/version.rc>

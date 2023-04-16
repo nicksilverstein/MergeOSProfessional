@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "FAT File System Management"
+#define MERGEOS_STR_INTERNAL_NAME     "ufat"
+#define MERGEOS_STR_ORIGINAL_FILENAME "ufat.dll"
+#include <mergeos/version.rc>

@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "NFS daemon"
+#define MERGEOS_STR_INTERNAL_NAME     "nfsd"
+#define MERGEOS_STR_ORIGINAL_FILENAME "nfsd.exe"
+#include <mergeos/version.rc>

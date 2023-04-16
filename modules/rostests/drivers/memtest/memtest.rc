@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION	"Memory Manager Information and Testing\0"
+#define MERGEOS_STR_INTERNAL_NAME	"memtest\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"memtest.sys\0"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "ODBC Client DLL"
+#define MERGEOS_STR_INTERNAL_NAME     "odbc32"
+#define MERGEOS_STR_ORIGINAL_FILENAME "odbc32.dll"
+#include <mergeos/version.rc>

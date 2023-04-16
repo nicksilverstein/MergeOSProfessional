@@ -1,0 +1,10 @@
+#include <windef.h>
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+
+#define MERGEOS_STR_FILE_DESCRIPTION   "MergeOS Net Command"
+#define MERGEOS_STR_INTERNAL_NAME      "net"
+#define MERGEOS_STR_ORIGINAL_FILENAME  "net.exe"
+#include <mergeos/version.rc>
+
+#include <net_msg.rc>

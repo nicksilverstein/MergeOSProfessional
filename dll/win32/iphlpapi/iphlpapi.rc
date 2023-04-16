@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Sockets 2 IP Helper API"
+#define MERGEOS_STR_INTERNAL_NAME     "iphlpapi"
+#define MERGEOS_STR_ORIGINAL_FILENAME "iphlpapi.dll"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Applications Manager console shim"
+#define MERGEOS_STR_INTERNAL_NAME     "rapps"
+#define MERGEOS_STR_ORIGINAL_FILENAME "rapps.com"
+
+#include <mergeos/version.rc>

@@ -1,0 +1,7 @@
+#include <winuser.h>
+
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Setup"
+#define MERGEOS_STR_INTERNAL_NAME     "setup"
+#define MERGEOS_STR_ORIGINAL_FILENAME "setup.exe"
+#include <mergeos/manifest_exe.rc>
+#include <mergeos/version.rc>

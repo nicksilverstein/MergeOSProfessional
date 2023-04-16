@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Serial port enumerator"
+#define MERGEOS_STR_INTERNAL_NAME     "serenum"
+#define MERGEOS_STR_ORIGINAL_FILENAME "serenum.sys"
+#include <mergeos/version.rc>

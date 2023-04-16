@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "PORTCLS Port Class Driver API"
+#define MERGEOS_STR_INTERNAL_NAME     "portcls"
+#define MERGEOS_STR_ORIGINAL_FILENAME "portcls.sys"
+#include <mergeos/version.rc>

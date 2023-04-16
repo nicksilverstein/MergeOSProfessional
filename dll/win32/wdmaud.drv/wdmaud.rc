@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS WDM Audio driver mapper"
+#define MERGEOS_STR_INTERNAL_NAME     "wdmaud"
+#define MERGEOS_STR_ORIGINAL_FILENAME "wdmaud.drv"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS ACPI Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "acpi"
+#define MERGEOS_STR_ORIGINAL_FILENAME "acpi.sys"
+#include <mergeos/version.rc>

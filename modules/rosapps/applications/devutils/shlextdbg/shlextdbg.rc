@@ -1,0 +1,9 @@
+#include <windef.h>
+#include <winuser.h>
+
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Shell Extension Debug Utility"
+#define MERGEOS_STR_INTERNAL_NAME     "shlextdbg"
+#define MERGEOS_STR_ORIGINAL_FILENAME "shlextdbg.exe"
+#include <mergeos/version.rc>
+
+#include <mergeos/manifest_exe.rc>

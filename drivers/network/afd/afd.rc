@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Socket Filesystem Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "afd"
+#define MERGEOS_STR_ORIGINAL_FILENAME "afd.sys"
+#include <mergeos/version.rc>

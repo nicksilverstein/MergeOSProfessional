@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Hid User Library"
+#define MERGEOS_STR_INTERNAL_NAME     "hid"
+#define MERGEOS_STR_ORIGINAL_FILENAME "hid.dll"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "USBD Legacy Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "usbd"
+#define MERGEOS_STR_ORIGINAL_FILENAME "usbd.sys"
+#include <mergeos/version.rc>

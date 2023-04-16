@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Generic USB Bluetooth Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "fbtusb"
+#define MERGEOS_STR_ORIGINAL_FILENAME "fbtusb.sys"
+#include <mergeos/version.rc>

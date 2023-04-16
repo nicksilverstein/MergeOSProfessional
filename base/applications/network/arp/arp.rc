@@ -1,0 +1,6 @@
+#define MERGEOS_STR_FILE_DESCRIPTION   "MergeOS TCP/IPv4 Win32 arp"
+#define MERGEOS_STR_INTERNAL_NAME      "arp"
+#define MERGEOS_STR_ORIGINAL_FILENAME  "arp.exe"
+#define MERGEOS_STR_ORIGINAL_COPYRIGHT "Ged Murphy (gedmurphy@gmail.com)"
+#include <mergeos/version.rc>
+#include <arp_msg.rc>

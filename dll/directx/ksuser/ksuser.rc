@@ -1,0 +1,10 @@
+
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION	"User CSA Library\0"
+#define MERGEOS_STR_INTERNAL_NAME	"ksuser.dll\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"ksuser.dll\0"
+
+#include <mergeos/reactx.h>
+
+#include <mergeos/version.rc>

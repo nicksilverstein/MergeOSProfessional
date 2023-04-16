@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Authentication Package"
+#define MERGEOS_STR_INTERNAL_NAME     "msv1_0"
+#define MERGEOS_STR_ORIGINAL_FILENAME "msv1_0.dll"
+#include <mergeos/version.rc>

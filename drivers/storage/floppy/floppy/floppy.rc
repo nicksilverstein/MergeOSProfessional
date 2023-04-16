@@ -1,0 +1,13 @@
+/*
+ * PROJECT:         MergeOS Floppy Driver
+ * LICENSE:         GPL - See COPYING in the top level directory
+ * FILE:            drivers/storage/floppy/floppy.rc
+ * PURPOSE:         Resource definition file
+ * PROGRAMMERS:     Vizzini (vizzini@plasmic.com)
+ */
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Floppy Disk Controller Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "floppy"
+#define MERGEOS_STR_ORIGINAL_FILENAME "floppy.sys"
+#include <mergeos/version.rc>

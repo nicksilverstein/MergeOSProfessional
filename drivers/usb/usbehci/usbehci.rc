@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "USB EHCI miniport driver"
+#define MERGEOS_STR_INTERNAL_NAME     "usbehci"
+#define MERGEOS_STR_ORIGINAL_FILENAME "usbehci.sys"
+#include <mergeos/version.rc>

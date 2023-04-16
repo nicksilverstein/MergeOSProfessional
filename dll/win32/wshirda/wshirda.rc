@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Windows Sockets 2 IRDA Helper API"
+#define MERGEOS_STR_INTERNAL_NAME     "wshirda"
+#define MERGEOS_STR_ORIGINAL_FILENAME "wshirda.dll"
+#include <mergeos/version.rc>

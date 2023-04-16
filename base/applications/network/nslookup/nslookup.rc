@@ -1,0 +1,5 @@
+#define MERGEOS_STR_FILE_DESCRIPTION   "MergeOS TCP/IPv4 Win32 nslookup"
+#define MERGEOS_STR_INTERNAL_NAME      "nslookup"
+#define MERGEOS_STR_ORIGINAL_FILENAME  "nslookup.exe"
+#define MERGEOS_STR_ORIGINAL_COPYRIGHT "Lucas Suggs (lucas.suggs@gmail.com)"
+#include <mergeos/version.rc>

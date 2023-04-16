@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Shell Services Dll"
+#define MERGEOS_STR_INTERNAL_NAME     "shsvcs"
+#define MERGEOS_STR_ORIGINAL_FILENAME "shsvcs.dll"
+#include <mergeos/version.rc>

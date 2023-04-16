@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "WmiLib"
+#define MERGEOS_STR_INTERNAL_NAME     "WmiLib"
+#define MERGEOS_STR_ORIGINAL_FILENAME "wmilib.sys"
+#include <mergeos/version.rc>

@@ -1,0 +1,7 @@
+; TDI test driver - MergeOS Operating System
+
+LIBRARY TDITEST.SYS
+
+EXPORTS
+
+; EOF

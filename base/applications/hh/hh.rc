@@ -1,0 +1,6 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS HTML Help Executable"
+#define MERGEOS_STR_INTERNAL_NAME     "hh"
+#define MERGEOS_STR_ORIGINAL_FILENAME "hh.exe"
+#include <mergeos/version.rc>
+
+2 ICON hh.ico

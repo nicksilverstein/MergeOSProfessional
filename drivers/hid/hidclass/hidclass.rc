@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "USB HID Bus Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "hidclass"
+#define MERGEOS_STR_ORIGINAL_FILENAME "hidclass.sys"
+#include <mergeos/version.rc>

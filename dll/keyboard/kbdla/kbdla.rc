@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Latin American Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdla"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdla.dll"
+#include <mergeos/version.rc>

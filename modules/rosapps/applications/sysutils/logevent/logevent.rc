@@ -1,0 +1,5 @@
+#define MERGEOS_STR_FILE_DESCRIPTION	"Win32 logevent utility\0"
+#define MERGEOS_STR_INTERNAL_NAME	"logevent\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"logevent.exe\0"
+
+#include <mergeos/version.rc>

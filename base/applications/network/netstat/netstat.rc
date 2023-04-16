@@ -1,0 +1,22 @@
+#include <windef.h>
+#include <winuser.h>
+#include "resource.h"
+
+#define MERGEOS_STR_FILE_DESCRIPTION    "MergeOS Network Statistics Utility"
+#define MERGEOS_STR_INTERNAL_NAME       "netstat"
+#define MERGEOS_STR_ORIGINAL_FILENAME   "netstat.exe"
+#define MERGEOS_STR_ORIGINAL_COPYRIGHT  "Ged Murphy (gedmurphy@gmail.com)"
+#include <mergeos/version.rc>
+
+/* UTF-8 */
+#pragma code_page(65001)
+
+#ifdef LANGUAGE_EN_US
+    #include "lang/en-US.rc"
+#endif
+#ifdef LANGUAGE_PL_PL
+    #include "lang/pl-PL.rc"
+#endif
+#ifdef LANGUAGE_ZH_TW
+    #include "lang/zh-TW.rc"
+#endif

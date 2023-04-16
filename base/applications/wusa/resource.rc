@@ -1,0 +1,14 @@
+#include <windef.h>
+
+#include "resource.h"
+
+/* Common resources */
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS WUSA stub"
+#define MERGEOS_STR_INTERNAL_NAME     "wusa"
+#define MERGEOS_STR_ORIGINAL_FILENAME "wusa.exe"
+#include <mergeos/version.rc>
+
+IDI_WUSA ICON "res/setup.ico"

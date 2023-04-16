@@ -1,0 +1,12 @@
+#include <windef.h>
+
+#include "resource.h"
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Storage device properties"
+#define MERGEOS_STR_INTERNAL_NAME     "storprop"
+#define MERGEOS_STR_ORIGINAL_FILENAME "storprop.dll"
+#include <mergeos/version.rc>
+

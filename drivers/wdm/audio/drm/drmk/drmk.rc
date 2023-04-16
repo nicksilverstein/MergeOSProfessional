@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Digital Rights Management"
+#define MERGEOS_STR_INTERNAL_NAME     "drmk"
+#define MERGEOS_STR_ORIGINAL_FILENAME "drmk.sys"
+#include <mergeos/version.rc>

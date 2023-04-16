@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Plug and Play Software Device Enumerator"
+#define MERGEOS_STR_INTERNAL_NAME     "swenum"
+#define MERGEOS_STR_ORIGINAL_FILENAME "swenum.sys"
+#include <mergeos/version.rc>

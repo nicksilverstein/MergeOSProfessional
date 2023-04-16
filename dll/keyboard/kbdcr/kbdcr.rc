@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Croatian Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdcr"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdcr.dll"
+#include <mergeos/version.rc>

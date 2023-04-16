@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "NFS Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "nfs"
+#define MERGEOS_STR_ORIGINAL_FILENAME "nfs.sys"
+#include <mergeos/version.rc>

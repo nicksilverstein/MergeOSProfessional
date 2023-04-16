@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "USB HID Parser"
+#define MERGEOS_STR_INTERNAL_NAME     "hidparse"
+#define MERGEOS_STR_ORIGINAL_FILENAME "hidparse.sys"
+#include <mergeos/version.rc>

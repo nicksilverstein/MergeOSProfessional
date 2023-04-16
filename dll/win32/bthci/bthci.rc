@@ -1,0 +1,23 @@
+#include <windef.h>
+#include <winuser.h>
+
+#include "resource.h"
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Bluetooth Class Installer"
+#define MERGEOS_STR_INTERNAL_NAME     "bthci"
+#define MERGEOS_STR_ORIGINAL_FILENAME "bthci.dll"
+
+#include <mergeos/version.rc>
+#include <mergeos/manifest_dll.rc>
+
+IDI_BLUETOOTH ICON "resources/bluetooth.ico"
+
+/* UTF-8 */
+#pragma code_page(65001)
+
+//#ifdef LANGUAGE_EN_US
+//    #include "lang/en-US.rc"
+//#endif

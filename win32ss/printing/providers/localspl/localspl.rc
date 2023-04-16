@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Local Spooler"
+#define MERGEOS_STR_INTERNAL_NAME     "localspl"
+#define MERGEOS_STR_ORIGINAL_FILENAME "localspl.dll"
+#include <mergeos/version.rc>

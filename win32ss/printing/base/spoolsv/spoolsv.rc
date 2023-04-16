@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Print Spooler Service"
+#define MERGEOS_STR_INTERNAL_NAME     "spoolsv"
+#define MERGEOS_STR_ORIGINAL_FILENAME "spoolsv.exe"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Spanish Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdsp"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdsp.dll"
+#include <mergeos/version.rc>

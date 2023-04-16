@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Linux ext2 IFS Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "ext2fs"
+#define MERGEOS_STR_ORIGINAL_FILENAME "ext2fs.sys"
+#include <mergeos/version.rc>

@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "Wireless LAN Service"
+#define MERGEOS_STR_INTERNAL_NAME     "wlansvc"
+#define MERGEOS_STR_ORIGINAL_FILENAME "wlansvc.exe"
+#include <mergeos/version.rc>

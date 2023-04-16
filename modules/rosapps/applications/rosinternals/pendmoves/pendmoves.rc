@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION    "Pending Move Operations Information\0"
+#define MERGEOS_STR_INTERNAL_NAME       "pendmoves\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME   "pendmoves.exe\0"
+#include <mergeos/version.rc>

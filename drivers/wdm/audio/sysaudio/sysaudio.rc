@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "System Audio Graph Builder"
+#define MERGEOS_STR_INTERNAL_NAME     "sysaudio"
+#define MERGEOS_STR_ORIGINAL_FILENAME "sysaudio.sys"
+#include <mergeos/version.rc>

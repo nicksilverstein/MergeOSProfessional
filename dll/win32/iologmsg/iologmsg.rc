@@ -1,0 +1,7 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "I/O Log Message Dll"
+#define MERGEOS_STR_INTERNAL_NAME     "iologmsg"
+#define MERGEOS_STR_ORIGINAL_FILENAME "iologmsg.dll"
+#include <mergeos/version.rc>
+
+#include <ntiologc.rc>

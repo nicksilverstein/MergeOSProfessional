@@ -1,0 +1,7 @@
+#include <windef.h>
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Authorization Framework"
+#define MERGEOS_STR_INTERNAL_NAME     "authz"
+#define MERGEOS_STR_ORIGINAL_FILENAME "authz.dll"
+#include <mergeos/version.rc>

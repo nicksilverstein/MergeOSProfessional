@@ -1,0 +1,5 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION	"DHCP server service\0"
+#define MERGEOS_STR_INTERNAL_NAME	"dhcpd\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"dhcpd.exe\0"
+#include <mergeos/version.rc>

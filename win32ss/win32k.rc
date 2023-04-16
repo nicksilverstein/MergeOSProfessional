@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "W32 GDI KM subsystem"
+#define MERGEOS_STR_INTERNAL_NAME     "win32k"
+#define MERGEOS_STR_ORIGINAL_FILENAME "win32k.sys"
+#include <mergeos/version.rc>

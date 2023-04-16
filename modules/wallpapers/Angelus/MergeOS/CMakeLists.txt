@@ -1,0 +1,8 @@
+add_cd_file(FILE ${CMAKE_CURRENT_SOURCE_DIR}/Angelus.MergeOS7.Blue_16-9.jpg DESTINATION mergeos/Web/Wallpaper FOR all)
+add_cd_file(FILE ${CMAKE_CURRENT_SOURCE_DIR}/Angelus.MergeOS7.Blue_4-3.jpg DESTINATION mergeos/Web/Wallpaper FOR all)
+add_cd_file(FILE ${CMAKE_CURRENT_SOURCE_DIR}/Angelus.MergeOS7.Dark_16-9.jpg DESTINATION mergeos/Web/Wallpaper FOR all)
+add_cd_file(FILE ${CMAKE_CURRENT_SOURCE_DIR}/Angelus.MergeOS7.Dark_4-3.jpg DESTINATION mergeos/Web/Wallpaper FOR all)
+add_cd_file(FILE ${CMAKE_CURRENT_SOURCE_DIR}/Angelus.MergeOS7.Green_16-9.jpg DESTINATION mergeos/Web/Wallpaper FOR all)
+add_cd_file(FILE ${CMAKE_CURRENT_SOURCE_DIR}/Angelus.MergeOS7.Green_4-3.jpg DESTINATION mergeos/Web/Wallpaper FOR all)
+add_cd_file(FILE ${CMAKE_CURRENT_SOURCE_DIR}/Angelus.MergeOS7.Light_16-9.jpg DESTINATION mergeos/Web/Wallpaper FOR all)
+add_cd_file(FILE ${CMAKE_CURRENT_SOURCE_DIR}/Angelus.MergeOS7.Light_4-3.jpg DESTINATION mergeos/Web/Wallpaper FOR all)

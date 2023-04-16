@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Japanese (JIS 106) Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdjpn"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdjpn.dll"
+#include <mergeos/version.rc>

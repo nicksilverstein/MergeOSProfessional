@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Common DLL to receive Winlogon notifications"
+#define MERGEOS_STR_INTERNAL_NAME     "wlnotify"
+#define MERGEOS_STR_ORIGINAL_FILENAME "wlnotify.dll"
+#include <mergeos/version.rc>

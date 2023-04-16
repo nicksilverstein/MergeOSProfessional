@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "WMI Service"
+#define MERGEOS_STR_INTERNAL_NAME     "wmisvc"
+#define MERGEOS_STR_ORIGINAL_FILENAME "wmisvc.dll"
+#include <mergeos/version.rc>

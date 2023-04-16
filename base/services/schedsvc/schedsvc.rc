@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Scheduler Service"
+#define MERGEOS_STR_INTERNAL_NAME     "schedsvc"
+#define MERGEOS_STR_ORIGINAL_FILENAME "schedsvc.dll"
+#include <mergeos/version.rc>

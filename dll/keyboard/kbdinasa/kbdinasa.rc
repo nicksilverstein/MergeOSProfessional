@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS ASSAMESE - INSCRIPT Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdinasa"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdinasa.dll"
+#include <mergeos/version.rc>

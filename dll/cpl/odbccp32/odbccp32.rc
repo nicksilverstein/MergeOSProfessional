@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS ODBC Control Panel Applet"
+#define MERGEOS_STR_INTERNAL_NAME     "odbccp32"
+#define MERGEOS_STR_ORIGINAL_FILENAME "odbccp32.cpl"
+#include <mergeos/version.rc>

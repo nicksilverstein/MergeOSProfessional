@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Standard Print Processor"
+#define MERGEOS_STR_INTERNAL_NAME     "winprint"
+#define MERGEOS_STR_ORIGINAL_FILENAME "winprint.dll"
+#include <mergeos/version.rc>

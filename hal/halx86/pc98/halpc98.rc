@@ -1,0 +1,9 @@
+#define MERGEOS_VERSION_DLL
+#if defined(CONFIG_SMP)
+// #define MERGEOS_STR_FILE_DESCRIPTION  "NEC PC-98 series Multiprocessor Hardware Abstraction Layer"
+#else
+#define MERGEOS_STR_FILE_DESCRIPTION  "NEC PC-98 series Uniprocessor Hardware Abstraction Layer"
+#endif
+#define MERGEOS_STR_INTERNAL_NAME     "halpc98"
+#define MERGEOS_STR_ORIGINAL_FILENAME "halpc98.dll"
+#include <mergeos/version.rc>

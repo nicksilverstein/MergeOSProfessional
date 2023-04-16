@@ -1,0 +1,5 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS Touch utility\0"
+#define MERGEOS_STR_INTERNAL_NAME	"touch\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"touch.exe\0"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Xbox Hardware Abstraction Layer"
+#define MERGEOS_STR_INTERNAL_NAME     "halxbox"
+#define MERGEOS_STR_ORIGINAL_FILENAME "halxbox.dll"
+#include <mergeos/version.rc>

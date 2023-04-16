@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "Local Security Authority"
+#define MERGEOS_STR_INTERNAL_NAME     "lsass"
+#define MERGEOS_STR_ORIGINAL_FILENAME "lsass.exe"
+#include <mergeos/version.rc>

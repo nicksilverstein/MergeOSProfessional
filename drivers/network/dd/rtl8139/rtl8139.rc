@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Realtek 8139 Ethernet Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "rtl8139"
+#define MERGEOS_STR_ORIGINAL_FILENAME "rtl8139.sys"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Secondary Logon Service Dll"
+#define MERGEOS_STR_INTERNAL_NAME     "seclogon"
+#define MERGEOS_STR_ORIGINAL_FILENAME "seclogon.dll"
+#include <mergeos/version.rc>

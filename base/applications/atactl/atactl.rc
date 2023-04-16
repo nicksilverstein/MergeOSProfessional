@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "UniATA Console Management Utility"
+#define MERGEOS_STR_INTERNAL_NAME     "atactl"
+#define MERGEOS_STR_ORIGINAL_FILENAME "atactl.exe"
+#include <mergeos/version.rc>

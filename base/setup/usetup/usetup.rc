@@ -1,0 +1,5 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION    "MergeOS Text-Mode Setup"
+#define MERGEOS_STR_INTERNAL_NAME       "usetup"
+#define MERGEOS_STR_ORIGINAL_FILENAME   "usetup.exe"
+#include <mergeos/version.rc>

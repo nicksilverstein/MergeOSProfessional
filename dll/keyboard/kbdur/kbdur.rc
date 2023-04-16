@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Ukrainian Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdur"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdur.dll"
+#include <mergeos/version.rc>

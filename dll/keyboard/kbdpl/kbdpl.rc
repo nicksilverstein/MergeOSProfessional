@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Polish Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdpl"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdpl.dll"
+#include <mergeos/version.rc>

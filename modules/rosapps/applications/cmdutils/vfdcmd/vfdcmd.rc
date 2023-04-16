@@ -1,0 +1,6 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "Virtual Floppy Controler"
+#define MERGEOS_STR_INTERNAL_NAME     "vfdcmd"
+#define MERGEOS_STR_ORIGINAL_FILENAME "vfdcmd.exe"
+#include <mergeos/version.rc>
+
+#include <vfdmsg.rc>

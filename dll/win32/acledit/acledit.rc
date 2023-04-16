@@ -1,0 +1,9 @@
+#include <windef.h>
+
+#include "resource.h"
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Access Control Editor"
+#define MERGEOS_STR_INTERNAL_NAME     "acledit"
+#define MERGEOS_STR_ORIGINAL_FILENAME "acledit.dll"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Kazakh (Cyrillic) Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdkaz"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdkaz.dll"
+#include <mergeos/version.rc>

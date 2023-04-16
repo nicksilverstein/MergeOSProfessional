@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Audio Service"
+#define MERGEOS_STR_INTERNAL_NAME     "audiosrv"
+#define MERGEOS_STR_ORIGINAL_FILENAME "audiosrv.dll"
+#include <mergeos/version.rc>

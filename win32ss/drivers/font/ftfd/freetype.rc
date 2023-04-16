@@ -1,0 +1,8 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION   "FreeType font handling library"
+#define MERGEOS_STR_INTERNAL_NAME      "freetype"
+#define MERGEOS_STR_ORIGINAL_FILENAME  "freetype.dll"
+#define MERGEOS_STR_COMPANY_NAME       "MergeOS Development Team/FreeType Team"
+#define MERGEOS_STR_LEGAL_COPYRIGHT    "Copyright 1998-2011 MergeOS Team"
+#define MERGEOS_STR_ORIGINAL_COPYRIGHT "Copyright 1996-2013 FreeType Team"
+#include <mergeos/version.rc>

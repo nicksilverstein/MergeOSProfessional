@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Multi UNC Provider"
+#define MERGEOS_STR_INTERNAL_NAME     "mup"
+#define MERGEOS_STR_ORIGINAL_FILENAME "mup.sys"
+#include <mergeos/version.rc>

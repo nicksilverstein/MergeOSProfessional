@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Security Account Manager interface DLL"
+#define MERGEOS_STR_INTERNAL_NAME     "samlib"
+#define MERGEOS_STR_ORIGINAL_FILENAME "samlib.dll"
+#include <mergeos/version.rc>

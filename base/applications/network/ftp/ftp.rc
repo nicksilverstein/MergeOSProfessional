@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS TCP/IPv4 FTP Client"
+#define MERGEOS_STR_INTERNAL_NAME     "ftp"
+#define MERGEOS_STR_ORIGINAL_FILENAME "ftp.exe"
+#include <mergeos/version.rc>

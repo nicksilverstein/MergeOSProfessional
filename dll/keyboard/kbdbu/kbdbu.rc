@@ -1,0 +1,6 @@
+#define MERGEOS_VERSION_DLL
+#pragma code_page(65001)
+#define MERGEOS_STR_FILE_DESCRIPTION  "Марица - Българска клавиатурна подредба по БДС 5237-78 за РеактОС\0"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdbu"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdbu.dll"
+#include <mergeos/version.rc>

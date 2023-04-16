@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Mouse Class Device Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "mouclass"
+#define MERGEOS_STR_ORIGINAL_FILENAME "mouclass.sys"
+#include <mergeos/version.rc>

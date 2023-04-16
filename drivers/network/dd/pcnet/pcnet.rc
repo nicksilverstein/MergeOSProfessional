@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "PCNet Ethernet PCI Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "pcnet"
+#define MERGEOS_STR_ORIGINAL_FILENAME "pcnet.sys"
+#include <mergeos/version.rc>

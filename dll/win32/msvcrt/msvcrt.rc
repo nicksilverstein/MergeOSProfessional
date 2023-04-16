@@ -1,0 +1,8 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS C Runtime Library"
+#define MERGEOS_STR_INTERNAL_NAME     "msvcrt"
+#define MERGEOS_STR_ORIGINAL_FILENAME "msvcrt.dll"
+
+#define MERGEOS_FILEVERSION 7,0,2600,2180
+#define MERGEOS_FILEVERSION_STR "7.0.2600"
+
+#include <mergeos/version.rc>

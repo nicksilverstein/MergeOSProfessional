@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Mailslot IFS Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "msfs"
+#define MERGEOS_STR_ORIGINAL_FILENAME "msfs.sys"
+#include <mergeos/version.rc>

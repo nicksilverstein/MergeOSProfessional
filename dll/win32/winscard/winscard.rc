@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS SmartCard API"
+#define MERGEOS_STR_INTERNAL_NAME     "winscard"
+#define MERGEOS_STR_ORIGINAL_FILENAME "winscard.dll"
+#include <mergeos/version.rc>

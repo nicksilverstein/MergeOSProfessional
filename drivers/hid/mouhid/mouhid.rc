@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Mouse HID Class Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "mouhid"
+#define MERGEOS_STR_ORIGINAL_FILENAME "mouhid.sys"
+#include <mergeos/version.rc>

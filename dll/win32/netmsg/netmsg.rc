@@ -1,0 +1,7 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Network Messages"
+#define MERGEOS_STR_INTERNAL_NAME     "netmsg"
+#define MERGEOS_STR_ORIGINAL_FILENAME "netmsg.dll"
+#include <mergeos/version.rc>
+
+#include <netmsgmsg.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "PCMCIA Bus Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "pcmcia"
+#define MERGEOS_STR_ORIGINAL_FILENAME "pcmcia.sys"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS User Profile Mapping API"
+#define MERGEOS_STR_INTERNAL_NAME     "profmap"
+#define MERGEOS_STR_ORIGINAL_FILENAME "profmap.dll"
+#include <mergeos/version.rc>

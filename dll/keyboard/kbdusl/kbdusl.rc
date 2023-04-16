@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS US-Dvorak for left hand Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdusl"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdusl.dll"
+#include <mergeos/version.rc>

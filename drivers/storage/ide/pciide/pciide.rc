@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "PCI IDE bus driver"
+#define MERGEOS_STR_INTERNAL_NAME     "pciide"
+#define MERGEOS_STR_ORIGINAL_FILENAME "pciide.sys"
+#include <mergeos/version.rc>

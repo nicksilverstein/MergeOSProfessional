@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Slovak Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdsl"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdsl.dll"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "InPort (Bus) Mouse Device Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "inport"
+#define MERGEOS_STR_ORIGINAL_FILENAME "inport.sys"
+#include <mergeos/version.rc>

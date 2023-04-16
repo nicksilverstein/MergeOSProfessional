@@ -1,0 +1,9 @@
+#include <windef.h>
+#include <winuser.h>
+
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS File Browser"
+#define MERGEOS_STR_INTERNAL_NAME     "filebrowser"
+#define MERGEOS_STR_ORIGINAL_FILENAME "filebrowser.exe"
+#include <mergeos/version.rc>
+
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US

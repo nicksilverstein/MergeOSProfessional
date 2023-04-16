@@ -1,0 +1,5 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS HTTP Win32 Server\0"
+#define MERGEOS_STR_INTERNAL_NAME	"roshttpd\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"roshttpd.exe\0"
+#include <mergeos/version.rc>

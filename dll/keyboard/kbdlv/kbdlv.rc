@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Latvian Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdlv"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdlv.dll"
+#include <mergeos/version.rc>

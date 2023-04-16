@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS FAX API Support"
+#define MERGEOS_STR_INTERNAL_NAME     "winfax"
+#define MERGEOS_STR_ORIGINAL_FILENAME "winfax.dll"
+#include <mergeos/version.rc>

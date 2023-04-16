@@ -1,0 +1,5 @@
+#define MERGEOS_STR_FILE_DESCRIPTION   "MergeOS TCP/IPv4 Win32 Route"
+#define MERGEOS_STR_INTERNAL_NAME      "route"
+#define MERGEOS_STR_ORIGINAL_FILENAME  "route.exe"
+#define MERGEOS_STR_ORIGINAL_COPYRIGHT "Art Yerkes (arty@users.sourceforge.net)"
+#include <mergeos/version.rc>

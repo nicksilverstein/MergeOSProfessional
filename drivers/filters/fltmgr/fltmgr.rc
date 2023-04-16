@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Filesystem Filter Manager"
+#define MERGEOS_STR_INTERNAL_NAME     "fltmgr"
+#define MERGEOS_STR_ORIGINAL_FILENAME "fltmgr.sys"
+#include <mergeos/version.rc>

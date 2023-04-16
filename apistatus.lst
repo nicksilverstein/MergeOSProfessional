@@ -1,0 +1,30 @@
+; Format:
+;   COMPONENT_NAME PATH_TO_COMPONENT_SOURCES
+; COMPONENT_NAME            - Name of the module. Eg. kernel32.
+; PATH_TO_COMPONENT_SOURCES - Relative path to sources (relative to where rgenstat is run from).
+
+advapi32 ../mergeos/dll/win32/advapi32
+crtdll ../mergeos/dll/win32/crtdll
+gdi32 ../mergeos/dll/win32/gdi32
+gdiplus ../mergeos/dll/win32/gdiplus
+iphlpapi ../mergeos/dll/win32/iphlpapi
+kernel32 ../mergeos/dll/win32/kernel32
+msvcrt ../mergeos/dll/win32/msvcrt
+rasapi32 ../mergeos/dll/win32/rasapi32
+rasdlg ../mergeos/dll/win32/rasdlg
+rasman ../mergeos/dll/win32/rasman
+rpcrt4 ../mergeos/dll/win32/rpcrt4
+secur32 ../mergeos/dll/win32/secur32
+snmpapi ../mergeos/dll/win32/snmpapi
+user32 ../mergeos/dll/win32/user32
+version ../mergeos/dll/win32/version
+winspool ../mergeos/dll/win32/winspool
+ws2_32 ../mergeos/dll/win32/ws2_32
+wsock32 ../mergeos/dll/win32/wsock32
+videoprt ../mergeos/drivers/video/videoprt
+ndis ../mergeos/drivers/network/ndis
+tdi ../mergeos/drivers/network/tdi
+scsiport ../mergeos/drivers/storage/scsiport
+ntoskrnl ../mergeos/ntoskrnl
+rtl ../mergeos/lib/rtl
+win32k ../mergeos/subsystems/win32/win32k

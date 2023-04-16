@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Intel PRO/1000 Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "e1000"
+#define MERGEOS_STR_ORIGINAL_FILENAME "e1000.sys"
+#include <mergeos/version.rc>

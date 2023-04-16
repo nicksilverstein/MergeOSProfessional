@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Control Method Battery Miniclass Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "cmbatt"
+#define MERGEOS_STR_ORIGINAL_FILENAME "cmbatt.sys"
+#include <mergeos/version.rc>

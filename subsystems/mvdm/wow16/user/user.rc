@@ -1,0 +1,5 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION    "MergeOS WOW16 User-interface stub"
+#define MERGEOS_STR_INTERNAL_NAME       "USER"
+#define MERGEOS_STR_ORIGINAL_FILENAME   "USER.EXE"
+#include <mergeos/version.rc>

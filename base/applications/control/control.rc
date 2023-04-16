@@ -1,0 +1,8 @@
+#include "resource.h"
+
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS System Control Panel"
+#define MERGEOS_STR_INTERNAL_NAME     "control"
+#define MERGEOS_STR_ORIGINAL_FILENAME "control.exe"
+#include <mergeos/version.rc>
+
+IDI_MAINICON ICON "resources/config.ico"

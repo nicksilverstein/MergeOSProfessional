@@ -1,0 +1,10 @@
+
+#include <windef.h>
+#include <winuser.h>
+
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Version Program"
+#define MERGEOS_STR_INTERNAL_NAME     "winver"
+#define MERGEOS_STR_ORIGINAL_FILENAME "winver.exe"
+#include <mergeos/version.rc>
+
+#include <mergeos/manifest_exe.rc>

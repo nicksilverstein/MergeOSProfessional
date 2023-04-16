@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION    "FS utility\0"
+#define MERGEOS_STR_INTERNAL_NAME       "fsutil\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME   "fsutil.exe\0"
+#include <mergeos/version.rc>

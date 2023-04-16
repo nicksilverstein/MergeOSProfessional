@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Turkish F Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdtuf"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdtuf.dll"
+#include <mergeos/version.rc>

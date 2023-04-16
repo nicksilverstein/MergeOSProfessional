@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS performance tester\0"
+#define MERGEOS_STR_INTERNAL_NAME	"rosperf\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"rosperf.exe\0"
+#include <mergeos/version.rc>

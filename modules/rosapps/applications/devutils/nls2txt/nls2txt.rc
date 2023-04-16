@@ -1,0 +1,18 @@
+/*
+ * PROJECT:     MergeOS NLS to TXT Converter
+ * LICENSE:     GNU General Public License Version 2.0 or any later version
+ * FILE:        devutils/nls2txt/nls2txt.rc
+ * COPYRIGHT:   Copyright 2016 Dmitry Chapyshev <dmitry@reactos.org>
+ */
+
+#include <windows.h>
+#include <commctrl.h>
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+
+#define MERGEOS_STR_FILE_DESCRIPTION    "MergeOS NLS to TXT Converter"
+#define MERGEOS_STR_INTERNAL_NAME       "nls2txt"
+#define MERGEOS_STR_ORIGINAL_FILENAME   "nls2txt.exe"
+#include <mergeos/version.rc>
+
+#include <mergeos/manifest_exe.rc>

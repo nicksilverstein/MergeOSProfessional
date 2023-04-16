@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "CDFS File System Management"
+#define MERGEOS_STR_INTERNAL_NAME     "ucdfs"
+#define MERGEOS_STR_ORIGINAL_FILENAME "ucdfs.dll"
+#include <mergeos/version.rc>

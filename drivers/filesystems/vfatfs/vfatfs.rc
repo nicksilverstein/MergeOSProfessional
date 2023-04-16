@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "VFAT IFS Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "vfatfs"
+#define MERGEOS_STR_ORIGINAL_FILENAME "vfatfs.sys"
+#include <mergeos/version.rc>

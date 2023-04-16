@@ -1,0 +1,5 @@
+#define MERGEOS_STR_FILE_DESCRIPTION   "MergeOS Simple Telnet Service"
+#define MERGEOS_STR_INTERNAL_NAME      "telnetd"
+#define MERGEOS_STR_ORIGINAL_FILENAME  "telnetd.exe"
+#define MERGEOS_STR_ORIGINAL_COPYRIGHT "fred.van.lieshout 'at' zonnet.nl"
+#include <mergeos/version.rc>

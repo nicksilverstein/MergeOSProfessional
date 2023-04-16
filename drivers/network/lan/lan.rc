@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "TCP/IP protocol driver"
+#define MERGEOS_STR_INTERNAL_NAME     "lan"
+#define MERGEOS_STR_ORIGINAL_FILENAME "lan.sys"
+#include <mergeos/version.rc>

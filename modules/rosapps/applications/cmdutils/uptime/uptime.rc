@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS uptime\0"
+#define MERGEOS_STR_INTERNAL_NAME	"uptime\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"uptime.exe\0"
+#include <mergeos/version.rc>

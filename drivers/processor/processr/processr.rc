@@ -1,0 +1,13 @@
+/*
+ * PROJECT:        MergeOS Generic CPU Driver
+ * LICENSE:        GNU GPLv2 only as published by the Free Software Foundation
+ * FILE:           drivers/processor/processr/processr.rc
+ * PURPOSE:        Resource definition file
+ * PROGRAMMERS:    Eric Kohl <eric.kohl@reactos.org>
+ */
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION	"Processor Device Driver\0"
+#define MERGEOS_STR_INTERNAL_NAME	"processr\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"processr.sys\0"
+#include <mergeos/version.rc>

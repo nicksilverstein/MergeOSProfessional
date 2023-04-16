@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Windows Sockets 2 API"
+#define MERGEOS_STR_INTERNAL_NAME     "wshtcpip"
+#define MERGEOS_STR_ORIGINAL_FILENAME "wshtcpip.dll"
+#include <mergeos/version.rc>

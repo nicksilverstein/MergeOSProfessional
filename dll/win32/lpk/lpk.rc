@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Language Pack"
+#define MERGEOS_STR_INTERNAL_NAME     "lpk"
+#define MERGEOS_STR_ORIGINAL_FILENAME "lpk.dll"
+#include <mergeos/version.rc>

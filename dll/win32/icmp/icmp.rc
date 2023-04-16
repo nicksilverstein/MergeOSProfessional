@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION "ICMP DLL"
+#define MERGEOS_STR_INTERNAL_NAME "icmp.dll"
+#define MERGEOS_STR_ORIGINAL_FILENAME "icmp.dll"
+#include <mergeos/version.rc>

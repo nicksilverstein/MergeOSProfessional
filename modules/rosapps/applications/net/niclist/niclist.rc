@@ -1,0 +1,5 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS packet driver niclist\0"
+#define MERGEOS_STR_INTERNAL_NAME	"niclist\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"niclist.exe\0"
+#include <mergeos/version.rc>

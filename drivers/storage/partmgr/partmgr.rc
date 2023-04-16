@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Partition Manager"
+#define MERGEOS_STR_INTERNAL_NAME     "partmgr"
+#define MERGEOS_STR_ORIGINAL_FILENAME "partmgr.sys"
+#include <mergeos/version.rc>

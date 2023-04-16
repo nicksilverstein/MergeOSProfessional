@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Server Service"
+#define MERGEOS_STR_INTERNAL_NAME     "srvsvc"
+#define MERGEOS_STR_ORIGINAL_FILENAME "srvsvc.dll"
+#include <mergeos/version.rc>

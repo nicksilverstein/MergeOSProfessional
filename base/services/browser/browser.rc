@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Browser Service Dll"
+#define MERGEOS_STR_INTERNAL_NAME     "browser"
+#define MERGEOS_STR_ORIGINAL_FILENAME "browser.dll"
+#include <mergeos/version.rc>

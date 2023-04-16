@@ -1,0 +1,8 @@
+#include <windows.h>
+
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS Move File after reboot test\0"
+#define MERGEOS_STR_INTERNAL_NAME	"movefiletest\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"movefiletest.exe\0"
+#include <mergeos/version.rc>
+
+

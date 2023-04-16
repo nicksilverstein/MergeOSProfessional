@@ -1,0 +1,3 @@
+# These files are distributed with MergeOS.
+AUTOEXEC.NT text eol=crlf
+CONFIG.NT text eol=crlf

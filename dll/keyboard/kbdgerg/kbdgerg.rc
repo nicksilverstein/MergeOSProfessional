@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS German de_ergo/eMeier Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdgerg"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdgerg.dll"
+#include <mergeos/version.rc>

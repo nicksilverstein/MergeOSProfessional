@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Ext2 File System Management"
+#define MERGEOS_STR_INTERNAL_NAME     "uext2"
+#define MERGEOS_STR_ORIGINAL_FILENAME "uext2.dll"
+#include <mergeos/version.rc>

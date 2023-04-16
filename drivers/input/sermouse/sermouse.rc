@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Serial mouse device driver"
+#define MERGEOS_STR_INTERNAL_NAME     "sermouse"
+#define MERGEOS_STR_ORIGINAL_FILENAME "sermouse.sys"
+#include <mergeos/version.rc>

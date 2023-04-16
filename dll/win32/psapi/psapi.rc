@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Process Status Helper"
+#define MERGEOS_STR_INTERNAL_NAME     "psapi"
+#define MERGEOS_STR_ORIGINAL_FILENAME "psapi.dll"
+#include <mergeos/version.rc>

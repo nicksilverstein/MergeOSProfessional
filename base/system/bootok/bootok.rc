@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "Boot Acceptance Application for Registry"
+#define MERGEOS_STR_INTERNAL_NAME     "bootok"
+#define MERGEOS_STR_ORIGINAL_FILENAME "bootok.exe"
+#include <mergeos/version.rc>

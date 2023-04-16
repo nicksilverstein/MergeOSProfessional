@@ -1,0 +1,6 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Shim Engine test utility"
+#define MERGEOS_STR_INTERNAL_NAME     "shimtest_ros"
+#define MERGEOS_STR_ORIGINAL_FILENAME "shimtest_ros.exe"
+#define MERGEOS_STR_COMPANY_NAME      "MergeOS - test"
+#include <mergeos/version.rc>

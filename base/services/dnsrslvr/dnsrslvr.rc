@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "DNS-Client"
+#define MERGEOS_STR_INTERNAL_NAME     "dnsrslvr"
+#define MERGEOS_STR_ORIGINAL_FILENAME "dnsrslvr.dll"
+#include <mergeos/version.rc>

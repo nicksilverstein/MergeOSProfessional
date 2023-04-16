@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Storport Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "storport"
+#define MERGEOS_STR_ORIGINAL_FILENAME "storport.sys"
+#include <mergeos/version.rc>

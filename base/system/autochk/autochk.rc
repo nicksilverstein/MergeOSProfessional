@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "File system checker"
+#define MERGEOS_STR_INTERNAL_NAME     "autochk"
+#define MERGEOS_STR_ORIGINAL_FILENAME "autochk.exe"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "FATX File System Management"
+#define MERGEOS_STR_INTERNAL_NAME     "ufatx"
+#define MERGEOS_STR_ORIGINAL_FILENAME "ufatx.dll"
+#include <mergeos/version.rc>

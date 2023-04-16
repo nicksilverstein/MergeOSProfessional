@@ -1,0 +1,5 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS W32 Kill Process Utility\0"
+#define MERGEOS_STR_INTERNAL_NAME	"kill\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"kill.exe\0"
+#include <mergeos/version.rc>

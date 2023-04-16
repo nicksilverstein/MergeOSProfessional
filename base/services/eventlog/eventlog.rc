@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "Event logging service"
+#define MERGEOS_STR_INTERNAL_NAME     "EventLog"
+#define MERGEOS_STR_ORIGINAL_FILENAME "EventLog.exe"
+#include <mergeos/version.rc>

@@ -1,0 +1,11 @@
+#include <windef.h>
+#include <winuser.h>
+
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Device Manager"
+#define MERGEOS_STR_INTERNAL_NAME     "devmgmt"
+#define MERGEOS_STR_ORIGINAL_FILENAME "devmgmt.exe"
+#include <mergeos/version.rc>
+
+#include <mergeos/manifest_exe.rc>
+
+1 ICON devmgmt.ico

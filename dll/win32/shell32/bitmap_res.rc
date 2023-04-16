@@ -1,0 +1,17 @@
+IDB_MERGEOS             BITMAP "res/bitmaps/mergeos.bmp"
+IDB_MERGEOS_WORKSTATION BITMAP "res/bitmaps/mergeosworkstation.bmp"
+IDB_MERGEOS_SERVER      BITMAP "res/bitmaps/mergeosserver.bmp"
+IDB_LINEBAR             BITMAP "res/bitmaps/line.bmp"
+
+IDB_DLG_BG BITMAP "res/bitmaps/dlg_bg.bmp"
+IDB_MERGEOS_FLAG BITMAP "res/bitmaps/mergeos_flag.bmp"
+IDB_IMAGE_STRIP BITMAP "res/bitmaps/image_strip.bmp"
+
+IDB_SHELL_IEXPLORE_LG        BITMAP "res/bitmaps/204.bmp"
+IDB_SHELL_IEXPLORE_LG_HOT    BITMAP "res/bitmaps/205.bmp"
+IDB_SHELL_IEXPLORE_SM        BITMAP "res/bitmaps/206.bmp"
+IDB_SHELL_IEXPLORE_SM_HOT    BITMAP "res/bitmaps/207.bmp"
+IDB_SHELL_EDIT_LG            BITMAP "res/bitmaps/225.bmp"
+IDB_SHELL_EDIT_LG_HOT        BITMAP "res/bitmaps/226.bmp"
+IDB_SHELL_EDIT_SM            BITMAP "res/bitmaps/227.bmp"
+IDB_SHELL_EDIT_SM_HOT        BITMAP "res/bitmaps/228.bmp"

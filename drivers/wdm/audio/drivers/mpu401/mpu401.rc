@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MPU401 KS Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "mpu401_ks"
+#define MERGEOS_STR_ORIGINAL_FILENAME "mpu401_ks.sys"
+#include <mergeos/version.rc>

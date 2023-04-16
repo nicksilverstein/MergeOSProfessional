@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Virtual CD-ROM Class Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "vcdrom"
+#define MERGEOS_STR_ORIGINAL_FILENAME "vcdrom.sys"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Devanagari - INSCRIPT Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdindev"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdindev.dll"
+#include <mergeos/version.rc>

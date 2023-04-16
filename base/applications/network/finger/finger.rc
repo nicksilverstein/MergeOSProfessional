@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS TCP/IPv4 Win32 finger"
+#define MERGEOS_STR_INTERNAL_NAME     "finger"
+#define MERGEOS_STR_ORIGINAL_FILENAME "finger.exe"
+#include <mergeos/version.rc>

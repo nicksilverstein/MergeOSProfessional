@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "AutoUpdate Service Stub"
+#define MERGEOS_STR_INTERNAL_NAME     "wuauserv"
+#define MERGEOS_STR_ORIGINAL_FILENAME "wuauserv.dll"
+#include <mergeos/version.rc>

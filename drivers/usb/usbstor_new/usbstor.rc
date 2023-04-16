@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "USB Storage Device Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "usbstor"
+#define MERGEOS_STR_ORIGINAL_FILENAME "usbstor.sys"
+#include <mergeos/version.rc>

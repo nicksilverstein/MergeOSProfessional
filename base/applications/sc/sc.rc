@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION  "Services control application"
+#define MERGEOS_STR_INTERNAL_NAME     "sc"
+#define MERGEOS_STR_ORIGINAL_FILENAME "sc.exe"
+#include <mergeos/version.rc>

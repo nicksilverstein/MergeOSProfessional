@@ -1,0 +1,6 @@
+#include <windef.h>
+
+#define MERGEOS_STR_FILE_DESCRIPTION   "Global Flags utility"
+#define MERGEOS_STR_INTERNAL_NAME      "gflags"
+#define MERGEOS_STR_ORIGINAL_FILENAME  "gflags.exe"
+#include <mergeos/version.rc>

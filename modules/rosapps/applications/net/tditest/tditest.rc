@@ -1,0 +1,6 @@
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION	"TDI test driver\0"
+#define MERGEOS_STR_INTERNAL_NAME	"tditest\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"tditest.sys\0"
+#include <mergeos/version.rc>

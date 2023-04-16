@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Sockets 2 SNMP Helper API"
+#define MERGEOS_STR_INTERNAL_NAME     "snmpapi"
+#define MERGEOS_STR_ORIGINAL_FILENAME "snmpapi.dll"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Keyboard HID Class Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdhid"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdhid.sys"
+#include <mergeos/version.rc>

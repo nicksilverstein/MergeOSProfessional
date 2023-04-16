@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "System File Checker Files"
+#define MERGEOS_STR_INTERNAL_NAME     "sfcfiles"
+#define MERGEOS_STR_ORIGINAL_FILENAME "sfcfiles.dll"
+#include <mergeos/version.rc>

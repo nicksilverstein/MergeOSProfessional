@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "X86 Uniprocessor Hardware Abstraction Layer"
+#define MERGEOS_STR_INTERNAL_NAME     "halacpi"
+#define MERGEOS_STR_ORIGINAL_FILENAME "halacpi.dll"
+#include <mergeos/version.rc>

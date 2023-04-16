@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "SCSI Port Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "scsiport"
+#define MERGEOS_STR_ORIGINAL_FILENAME "scsiport.sys"
+#include <mergeos/version.rc>

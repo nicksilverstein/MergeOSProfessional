@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS/WINE Wave Mapper\0"
+#define MERGEOS_STR_INTERNAL_NAME	"wavemap\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"wavemap.drv\0"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "TDI wrapper kernel module"
+#define MERGEOS_STR_INTERNAL_NAME     "tdi"
+#define MERGEOS_STR_ORIGINAL_FILENAME "tdi.sys"
+#include <mergeos/version.rc>

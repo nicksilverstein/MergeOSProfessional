@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "DNS Client API Library"
+#define MERGEOS_STR_INTERNAL_NAME     "dnsapi"
+#define MERGEOS_STR_ORIGINAL_FILENAME "dnsapi.dll"
+#include <mergeos/version.rc>

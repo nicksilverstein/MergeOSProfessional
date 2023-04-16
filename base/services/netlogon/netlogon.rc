@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Net Logon Services Dll"
+#define MERGEOS_STR_INTERNAL_NAME     "netlogon"
+#define MERGEOS_STR_ORIGINAL_FILENAME "netlogon.dll"
+#include <mergeos/version.rc>

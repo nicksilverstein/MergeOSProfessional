@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "nVidia nForce Ethernet Controller Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "nvnet"
+#define MERGEOS_STR_ORIGINAL_FILENAME "nvnet.sys"
+#include <mergeos/version.rc>

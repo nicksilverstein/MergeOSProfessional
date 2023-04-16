@@ -1,0 +1,12 @@
+#include "resource.h"
+#include <scrnsave.h>
+
+#define MERGEOS_STR_FILE_DESCRIPTION  "Maze Demo and Screen Saver"
+#define MERGEOS_STR_INTERNAL_NAME     "maze"
+#define MERGEOS_STR_ORIGINAL_FILENAME "maze.exe"
+#include <mergeos/version.rc>
+
+STRINGTABLE DISCARDABLE
+BEGIN
+    idsAppName              "Screen Saver.Maze"
+END

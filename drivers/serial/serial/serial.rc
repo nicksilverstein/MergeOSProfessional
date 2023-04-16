@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Serial Port Device Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "serial"
+#define MERGEOS_STR_ORIGINAL_FILENAME "serial.sys"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Xbox Miniport Device Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "xboxvmp"
+#define MERGEOS_STR_ORIGINAL_FILENAME "xboxvmp.sys"
+#include <mergeos/version.rc>

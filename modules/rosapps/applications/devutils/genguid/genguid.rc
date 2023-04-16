@@ -1,0 +1,5 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION	"GUID Generator\0"
+#define MERGEOS_STR_INTERNAL_NAME	"genguid\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"genguid.exe\0"
+#include <mergeos/version.rc>

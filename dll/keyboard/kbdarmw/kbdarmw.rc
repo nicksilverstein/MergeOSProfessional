@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS Armenian Western Keyboard Layout"
+#define MERGEOS_STR_INTERNAL_NAME     "kbdarmw"
+#define MERGEOS_STR_ORIGINAL_FILENAME "kbdarmw.dll"
+#include <mergeos/version.rc>

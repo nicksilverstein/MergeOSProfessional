@@ -1,0 +1,4 @@
+#define MERGEOS_STR_FILE_DESCRIPTION    "Queue move operations for next reboot\0"
+#define MERGEOS_STR_INTERNAL_NAME       "movefile\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME   "movefile.exe\0"
+#include <mergeos/version.rc>

@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "DcomLaunch Service"
+#define MERGEOS_STR_INTERNAL_NAME     "dcomlaunch"
+#define MERGEOS_STR_ORIGINAL_FILENAME "dcomlaunch.dll"
+#include <mergeos/version.rc>

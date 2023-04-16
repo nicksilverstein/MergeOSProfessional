@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "Hub Driver for USB"
+#define MERGEOS_STR_INTERNAL_NAME     "usbhub"
+#define MERGEOS_STR_ORIGINAL_FILENAME "usbhub.sys"
+#include <mergeos/version.rc>

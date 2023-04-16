@@ -1,0 +1,5 @@
+#define MERGEOS_STR_FILE_DESCRIPTION   "MergeOS TCP/IP Services Application"
+#define MERGEOS_STR_INTERNAL_NAME      "tcpsvcs"
+#define MERGEOS_STR_ORIGINAL_FILENAME  "tcpsvcs.exe"
+#define MERGEOS_STR_ORIGINAL_COPYRIGHT "Ged Murphy (gedmurphy@gmail.com)"
+#include <mergeos/version.rc>

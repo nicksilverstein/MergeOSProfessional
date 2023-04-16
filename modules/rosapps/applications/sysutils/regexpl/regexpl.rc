@@ -1,0 +1,6 @@
+
+#define MERGEOS_STR_FILE_DESCRIPTION	"MergeOS Console Registry Explorer\0"
+#define MERGEOS_STR_INTERNAL_NAME	"regexpl\0"
+#define MERGEOS_STR_ORIGINAL_FILENAME	"regexpl.exe\0"
+#define MERGEOS_STR_ORIGINAL_COPYRIGHT	"2000 (c) Nedko Arnaudov\0"
+#include <mergeos/version.rc>

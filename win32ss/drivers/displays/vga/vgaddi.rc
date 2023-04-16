@@ -1,0 +1,5 @@
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "VGA Display Driver"
+#define MERGEOS_STR_INTERNAL_NAME     "vgaddi"
+#define MERGEOS_STR_ORIGINAL_FILENAME "vgaddi.dll"
+#include <mergeos/version.rc>

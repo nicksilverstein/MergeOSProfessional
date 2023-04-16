@@ -1,0 +1,13 @@
+#include <windef.h>
+#include <winuser.h>
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+
+#define MERGEOS_VERSION_DLL
+#define MERGEOS_STR_FILE_DESCRIPTION  "MergeOS User & Console API Server + Terminal Emulator DLL"
+#define MERGEOS_STR_INTERNAL_NAME     "winsrv"
+#define MERGEOS_STR_ORIGINAL_FILENAME "winsrv.dll"
+#include <mergeos/version.rc>
+
+#include "consrv/consrv.rc"
+#include "usersrv/usersrv.rc"
